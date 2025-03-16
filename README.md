@@ -32,7 +32,7 @@ This project builds a machine learning model to analyze the sentiment of movie r
 * The model's accuracy depends on the quality and size of the training dataset.
 * You can improve the model by experimenting with different machine learning algorithms and hyperparameters.
 
-## sample_movie_reviews 
+## Sample_movie_reviews to check the model
     "An absolute masterpiece! The storyline was captivating and the acting was phenomenal.",
     "I regret watching this movie. It was a complete waste of time.",
     "The film was decent, but nothing extraordinary. Good for a one-time watch.",
